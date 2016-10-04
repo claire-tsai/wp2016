@@ -4,6 +4,9 @@ body{
   color:purple;
   background-color:#ccff99}
 ul.navbar{
+  list-style-type: none;
+  padding: 0;
+   margin: 0
   position: absolute;
   top: 2em;
   left: 1em;
