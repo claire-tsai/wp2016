@@ -1,5 +1,5 @@
 body{
-  margin:40em
+  margin:40em;
   padding-left:20em;
   font-family:DFKai-sb,MingLiU,Helvetica, Geneva, Arial;
   color:purple;
@@ -32,4 +32,4 @@ address{
   address {
     margin-top: 1em;
     padding-top: 1em;
-    border-top: thin dotted}
+    border-top: thin dotted}}    
