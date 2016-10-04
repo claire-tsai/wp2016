@@ -28,6 +28,12 @@ ul.navbar a {
     color: yellow }
   a:visited {
     color: purple }
+table{
+  border:2px solid #FF44AA}
+  td{
+    background-color:#FFCCCC}
+  .fail{
+    color:#CCEEFF}
 address{
   address {
     margin-top: 1em;
