@@ -1,12 +1,12 @@
 body{
-  margin:4em;
+  margin:5em;
   padding-left:15em;
   font-family:DFKai-sb,MingLiU,Helvetica, Geneva, Arial;
   color:purple;
   background-color:#ccff99}
 ul.navbar{
   list-style-type: none;
-  padding: 0;
+  padding:14px;
   margin: 0;
   position: absolute;
   top: 2em;
@@ -18,14 +18,14 @@ h1{
   size:14;
   color:orange}
 ul.navbar li {
-  background: white;
+  background: #ffffbb;
   margin: 0.5em 0;
   padding: 0.3em;
-  border-right: 1em solid red }
+  border-right: 1em solid #ff44aa }
 ul.navbar a {
   text-decoration: none}
   a:link {
-    color: yellow }
+    color: orange }
   a:visited {
     color: purple }
 table{
