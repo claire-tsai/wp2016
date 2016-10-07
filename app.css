@@ -1,5 +1,5 @@
 body{
-  margin:5em;
+  margin:6em;
   padding-left:15em;
   font-family:DFKai-sb,MingLiU,Helvetica, Geneva, Arial;
   color:purple;
@@ -13,12 +13,13 @@ ul.navbar{
   left: 1em;
   width: 8em}  
 h1{
-  font-family:DFKai-sb,MingLiU,Helvetica, Geneva, Arial;
-  weight:700;
-  size:14;
-  color:orange}
+   margin:5em;
+   font-family:DFKai-sb,MingLiU,Helvetica, Geneva, Arial;
+   weight:700;
+   size:16;
+   color:#ff0000}
 ul.navbar li {
-  background: #ffffbb;
+  background: white;
   margin: 0.5em 0;
   padding: 0.3em;
   border-right: 1em solid #ff44aa }
