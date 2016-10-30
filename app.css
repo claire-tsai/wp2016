@@ -34,8 +34,10 @@ table{
     background-color:#FFCCCC}
   .fail{
     color:#CCEEFF}
-address{
-  address {
-    margin-top: 1em;
-    padding-top: 1em;
-    border-top: thin dotted}}    
+.gotop{
+  color:rgba(226,248,156,0.9)
+  position:fixed;
+  bottom:2vh;
+  right:5vh;
+  cursor:pointer;
+} 
