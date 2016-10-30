@@ -18,14 +18,11 @@ h1{
    size:16;
    color:#ff0000}
 ul.navbar li {
-  color = orange;
   background: white;
   margin: 0.5em 0;
   padding: 0.3em;
   border-right: 1em solid #ff44aa }
-ul.navbar a {text-decoration: none }
-  a:link {color: orange }
-  a:visited{color: purple }
+ul.navbar a  {color: orange }
 table{
   border:2px solid #FF44AA}
   td{
