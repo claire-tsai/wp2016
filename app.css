@@ -34,8 +34,8 @@ table{
     background-color:#FFCCCC}
   .fail{
     color:#CCEEFF}
-#hello{
-   color=##33FF33}
+.hello{
+   color=#33FF33}
 .gotop{
   color:rgba(226,248,156,0.9)
   position:fixed;
