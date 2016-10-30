@@ -24,15 +24,15 @@ ul.navbar li {
   padding: 0.3em;
   border-right: 1em solid #ff44aa }
 ul.navbar a {text-decoration: none }
-  a:link {color: orange; }
-  a:visited{color: purple; }
+  a:link {color: orange }
+  a:visited{color: purple }
 table{
   border:2px solid #FF44AA}
   td{
     background-color:#FFCCCC}
   .fail{
     color:#CCEEFF}
-.hello{
+.hello p{
    color=#33FF33}
 .gotop{
   color:rgba(226,248,156,0.9)
