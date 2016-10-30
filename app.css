@@ -24,11 +24,8 @@ ul.navbar li {
   padding: 0.3em;
   border-right: 1em solid #ff44aa }
 ul.navbar a {
-  text-decoration: none}
-  a:link {
-    color: orange }
-  a:visited {
-    color: purple }
+  text-decoration: none
+  color: orange  }
 table{
   border:2px solid #FF44AA}
   td{
